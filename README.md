@@ -2,9 +2,8 @@
 
 # Power BI Internship Project
 
-This repository contains the deliverables for the Power BI internship program with Cognifyz Technologies. The project focuses on analyzing investment data, deriving insights, and creating an interactive dashboard using Power BI. The tasks are designed to enhance skills in data analysis, visualization, and storytelling.
+This repository contains the deliverables for the Power BI internship program with Cognifyz Technologies. The project focuses on analyzing investment data, deriving insights, and creating an interactive dashboard using Power BI. The tasks are designed to enhance skills in data analysis, visualization, and storytelling. In this GitHub repository we discuss about tasks that involve in Cognifyz power BI internship.
 
-In this GitHub repository we discuss about tasks that involve in Cognifyz power BI internship.
 ---
 
 ## Project Overview
