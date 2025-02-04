@@ -1,4 +1,4 @@
-```md
+
 # 🚀 Amarendra Nayak - Cognifyz Power BI Internship 🎯  
 
 ## 📊 Power BI Internship Project  
